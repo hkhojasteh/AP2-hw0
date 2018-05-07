@@ -229,7 +229,7 @@ Implement RGB to [Hue, Chroma, Lightness](https://en.wikipedia.org/wiki/CIELUV#C
 
 ## Turn it in ##
 
-You only need to turn in one file, your `process_image.c`. Use the dropbox link on the class website.
+You only need to turn in one file, your `process_image.c`.
 
 [1]: https://en.wikipedia.org/wiki/SRGB#The_sRGB_transfer_function_("gamma")
 [2]: https://en.wikipedia.org/wiki/Luma_(video)
